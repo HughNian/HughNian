@@ -7,5 +7,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HughNian&theme=algolia" />
 </a>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hughnian&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
